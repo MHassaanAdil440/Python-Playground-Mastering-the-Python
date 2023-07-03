@@ -6,4 +6,4 @@
 
 my_string = "Hello, how are you?"
 count = my_string.count("o")  # count is 2
-print(count)
+print('H' in my_string)  # True
